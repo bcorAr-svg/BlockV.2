@@ -1,0 +1,11 @@
+BlockV.2 - Watchdog de Volumen
+
+Un sistema de monitoreo inteligente (Watchdog) diseñado para asegurar y controlar los niveles de volumen en Windows, evitando picos inesperados o forzando configuraciones específicas de audio de forma automatizada.
+
+Características Principales
+
+Monitoreo en tiempo real: Detecta cambios indeseados en el mezclador de volumen de Windows.
+
+Restauración automática: Vuelve a fijar el volumen al nivel preconfigurado si detecta alteraciones.
+
+Ligero y eficiente: Desarrollado como un ejecutable independiente (ForzarVolumen.exe).
